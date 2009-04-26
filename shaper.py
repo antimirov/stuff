@@ -4,6 +4,10 @@ import time
 import threading
 
 
+"""
+This should be done in multi-threaded way :(
+"""
+
 
 class Shaper:
     def __init__(self, file, speed):
