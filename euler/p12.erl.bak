@@ -1,0 +1,36 @@
+-module(p12).
+-compile(export_all).
+-export([start/0]).
+
+
+num_fract(1) -> {1, [1]};
+num_fract(Num) -> num_fract([Num], Num, Num div 2, 1).
+
+num_fract(L, _NumOrig,1,Count) -> {Count+1, lists:reverse([1|L])};
+num_fract(L,NumOrig,CurrFraction,Count) ->
+    %io:format("NumOrig: ~p, CurrFraction: ~p, Count: ~p~n", [NumOrig, CurrFraction, Count]),
+    case (NumOrig rem CurrFraction) =:= 0 of
+        true ->  num_fract([CurrFraction|L], NumOrig, CurrFraction-1, Count+1);
+        false -> num_fract(L, NumOrig, CurrFraction-1, Count)
+    end.
+
+
+find() ->
+    find(1,1).
+
+find(CurrentNum, CurrTr) ->
+    {NumFract, L} = num_fract(CurrTr),
+    %io:format("Num: ~p, CurrTr: ~p, NumFract: ~p~n", [CurrentNum, CurrTr, NumFract]),
+    case NumFract > 500 of
+        true -> {CurrentNum, CurrTr, erlang:length(L), L};
+        false -> 
+            Next = CurrentNum+1,
+            find(Next, CurrTr+Next)
+    end.
+
+
+
+start() ->
+
+    Num = find(),
+    io:format("~p~n", [Num]).

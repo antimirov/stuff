@@ -1,0 +1,452 @@
+00:36:07.10  Logging started, 03/31/09                  %%%%%%%%%%%%%%%%%%%%
+00:36:07.10  ActivePassiveProfiler: starting                           %%%%%
+00:36:07.16   ______
+        #1   |99.3 %|  <module>                              ptest.py:1
+        #2   | 0.7 %|  active_start              ...psyco/profiler.py:273
+00:36:07.21  tag function: __main__.<module>                               %
+00:36:07.21  unsupported opcode 90 at <module>:9                         % %
+00:36:07.26  tag function: __main__.<module>                               %
+00:36:07.31  tag function: __main__.<module>                               %
+00:36:07.37  tag function: __main__.<module>                               %
+00:36:07.37   ______
+        #1   | 0.2 %|  active_start              ...psyco/profiler.py:273
+00:36:07.42  tag function: __main__.<module>                               %
+00:36:07.47  tag function: __main__.<module>                               %
+00:36:07.52  tag function: __main__.<module>                               %
+00:36:07.58  tag function: __main__.<module>                               %
+00:36:07.63  tag function: __main__.<module>                               %
+00:36:07.68  tag function: __main__.<module>                               %
+00:36:07.73  tag function: __main__.<module>                               %
+00:36:07.78  tag function: __main__.<module>                               %
+00:36:07.84  tag function: __main__.<module>                               %
+00:36:07.89  tag function: __main__.<module>                               %
+00:36:07.94  tag function: __main__.<module>                               %
+00:36:07.99   ______
+        #1   | 8.9 %|  <module>                              ptest.py:1
+00:36:08.04  tag function: __main__.<module>                               %
+00:36:08.15  tag function: __main__.<module>                               %
+00:36:08.20   ______
+        #1   | 4.8 %|  <module>                              ptest.py:1
+00:36:08.30  tag function: __main__.<module>                               %
+00:36:08.41   ______
+        #1   | 8.9 %|  <module>                              ptest.py:1
+00:36:08.46  tag function: __main__.<module>                               %
+00:36:08.56  tag function: __main__.<module>                               %
+00:36:08.67  tag function: __main__.<module>                               %
+00:36:08.77  tag function: __main__.<module>                               %
+00:36:08.88  tag function: __main__.<module>                               %
+00:36:08.98  tag function: __main__.<module>                               %
+00:36:09.08  tag function: __main__.<module>                               %
+00:36:09.19  tag function: __main__.<module>                               %
+00:36:09.29  tag function: __main__.<module>                               %
+00:36:09.40  tag function: __main__.<module>                               %
+00:36:09.50  tag function: __main__.<module>                               %
+00:36:09.60  tag function: __main__.<module>                               %
+00:36:09.71  tag function: __main__.<module>                               %
+00:36:09.76   ______
+        #1   | 6.3 %|  <module>                              ptest.py:1
+00:36:09.81  tag function: __main__.<module>                               %
+00:36:09.92  tag function: __main__.<module>                               %
+00:36:09.97   ______
+        #1   | 6.2 %|  <module>                              ptest.py:1
+00:36:10.02  tag function: __main__.<module>                               %
+00:36:10.13  tag function: __main__.<module>                               %
+00:36:10.18   ______
+        #1   | 6.2 %|  <module>                              ptest.py:1
+00:36:10.23  tag function: __main__.<module>                               %
+00:36:10.33  tag function: __main__.<module>                               %
+00:36:10.39   ______
+        #1   | 6.4 %|  <module>                              ptest.py:1
+00:36:10.44  tag function: __main__.<module>                               %
+00:36:10.54  tag function: __main__.<module>                               %
+00:36:10.59   ______
+        #1   | 6.3 %|  <module>                              ptest.py:1
+00:36:10.65  tag function: __main__.<module>                               %
+00:36:10.75  tag function: __main__.<module>                               %
+00:36:10.80   ______
+        #1   | 6.6 %|  <module>                              ptest.py:1
+00:36:10.85  tag function: __main__.<module>                               %
+00:36:10.96  tag function: __main__.<module>                               %
+00:36:11.01   ______
+        #1   | 6.5 %|  <module>                              ptest.py:1
+00:36:11.06  tag function: __main__.<module>                               %
+00:36:11.16  tag function: __main__.<module>                               %
+00:36:11.27  tag function: __main__.<module>                               %
+00:36:11.37  tag function: __main__.<module>                               %
+00:36:11.48  tag function: __main__.<module>                               %
+00:36:11.59  tag function: __main__.<module>                               %
+00:36:11.69  tag function: __main__.<module>                               %
+00:36:11.79  tag function: __main__.<module>                               %
+00:36:11.90  tag function: __main__.<module>                               %
+00:36:12.00  tag function: __main__.<module>                               %
+00:36:12.11  tag function: __main__.<module>                               %
+00:36:12.21  tag function: __main__.<module>                               %
+00:36:12.31  tag function: __main__.<module>                               %
+00:36:12.37   ______
+        #1   | 6.8 %|  <module>                              ptest.py:1
+00:36:12.42  tag function: __main__.<module>                               %
+00:36:12.52  tag function: __main__.<module>                               %
+00:36:12.58   ______
+        #1   | 7.2 %|  <module>                              ptest.py:1
+00:36:12.63  tag function: __main__.<module>                               %
+00:36:12.73  tag function: __main__.<module>                               %
+00:36:12.79   ______
+        #1   | 7.0 %|  <module>                              ptest.py:1
+00:36:12.84  tag function: __main__.<module>                               %
+00:36:12.94  tag function: __main__.<module>                               %
+00:36:12.99   ______
+        #1   | 6.4 %|  <module>                              ptest.py:1
+00:36:13.05  tag function: __main__.<module>                               %
+00:36:13.15  tag function: __main__.<module>                               %
+00:36:13.20   ______
+        #1   | 6.9 %|  <module>                              ptest.py:1
+00:36:13.25  tag function: __main__.<module>                               %
+00:36:13.36  tag function: __main__.<module>                               %
+00:36:13.41   ______
+        #1   | 6.5 %|  <module>                              ptest.py:1
+00:36:13.46  tag function: __main__.<module>                               %
+00:36:13.57  tag function: __main__.<module>                               %
+00:36:13.67  tag function: __main__.<module>                               %
+00:36:13.77  tag function: __main__.<module>                               %
+00:36:13.88  tag function: __main__.<module>                               %
+00:36:13.98  tag function: __main__.<module>                               %
+00:36:14.08  tag function: __main__.<module>                               %
+00:36:14.19  tag function: __main__.<module>                               %
+00:36:14.29  tag function: __main__.<module>                               %
+00:36:14.40  tag function: __main__.<module>                               %
+00:36:14.50  tag function: __main__.<module>                               %
+00:36:14.60  tag function: __main__.<module>                               %
+00:36:14.71  tag function: __main__.<module>                               %
+00:36:14.76   ______
+        #1   | 6.5 %|  <module>                              ptest.py:1
+00:36:14.81  tag function: __main__.<module>                               %
+00:36:14.92  tag function: __main__.<module>                               %
+00:36:14.97   ______
+        #1   | 6.7 %|  <module>                              ptest.py:1
+00:36:15.02  tag function: __main__.<module>                               %
+00:36:15.13  tag function: __main__.<module>                               %
+00:36:15.18   ______
+        #1   | 6.6 %|  <module>                              ptest.py:1
+00:36:15.23  tag function: __main__.<module>                               %
+00:36:15.33  tag function: __main__.<module>                               %
+00:36:15.39   ______
+        #1   | 6.7 %|  <module>                              ptest.py:1
+00:36:15.44  tag function: __main__.<module>                               %
+00:36:15.54  tag function: __main__.<module>                               %
+00:36:15.59   ______
+        #1   | 6.6 %|  <module>                              ptest.py:1
+00:36:15.65  tag function: __main__.<module>                               %
+00:36:15.75  tag function: __main__.<module>                               %
+00:36:15.80   ______
+        #1   | 6.7 %|  <module>                              ptest.py:1
+00:36:15.85  tag function: __main__.<module>                               %
+00:36:15.96  tag function: __main__.<module>                               %
+00:36:16.01   ______
+        #1   | 6.4 %|  <module>                              ptest.py:1
+00:36:16.06  tag function: __main__.<module>                               %
+00:36:16.16  tag function: __main__.<module>                               %
+00:36:16.27  tag function: __main__.<module>                               %
+00:36:16.37  tag function: __main__.<module>                               %
+00:36:16.48  tag function: __main__.<module>                               %
+00:36:16.58  tag function: __main__.<module>                               %
+00:36:16.68  tag function: __main__.<module>                               %
+00:36:16.79  tag function: __main__.<module>                               %
+00:36:16.89  tag function: __main__.<module>                               %
+00:36:17.00  tag function: __main__.<module>                               %
+00:36:17.10  tag function: __main__.<module>                               %
+00:36:17.21  tag function: __main__.<module>                               %
+00:36:17.31  tag function: __main__.<module>                               %
+00:36:17.36   ______
+        #1   | 6.8 %|  <module>                              ptest.py:1
+00:36:17.41  tag function: __main__.<module>                               %
+00:36:17.52  tag function: __main__.<module>                               %
+00:36:17.57   ______
+        #1   | 6.8 %|  <module>                              ptest.py:1
+00:36:17.62  tag function: __main__.<module>                               %
+00:36:17.73  tag function: __main__.<module>                               %
+00:36:17.78   ______
+        #1   | 6.6 %|  <module>                              ptest.py:1
+00:36:17.83  tag function: __main__.<module>                               %
+00:36:17.93  tag function: __main__.<module>                               %
+00:36:17.98   ______
+        #1   | 6.6 %|  <module>                              ptest.py:1
+00:36:18.04  tag function: __main__.<module>                               %
+00:36:18.14  tag function: __main__.<module>                               %
+00:36:18.19   ______
+        #1   | 6.9 %|  <module>                              ptest.py:1
+00:36:18.24  tag function: __main__.<module>                               %
+00:36:18.35  tag function: __main__.<module>                               %
+00:36:18.40   ______
+        #1   | 6.9 %|  <module>                              ptest.py:1
+00:36:18.45  tag function: __main__.<module>                               %
+00:36:18.56  tag function: __main__.<module>                               %
+00:36:18.61   ______
+        #1   | 6.8 %|  <module>                              ptest.py:1
+00:36:18.66  tag function: __main__.<module>                               %
+00:36:18.76  tag function: __main__.<module>                               %
+00:36:18.87  tag function: __main__.<module>                               %
+00:36:18.97  tag function: __main__.<module>                               %
+00:36:19.08  tag function: __main__.<module>                               %
+00:36:19.18  tag function: __main__.<module>                               %
+00:36:19.29  tag function: __main__.<module>                               %
+00:36:19.39  tag function: __main__.<module>                               %
+00:36:19.49  tag function: __main__.<module>                               %
+00:36:19.60  tag function: __main__.<module>                               %
+00:36:19.70  tag function: __main__.<module>                               %
+00:36:19.80  tag function: __main__.<module>                               %
+00:36:19.91  tag function: __main__.<module>                               %
+00:36:19.96   ______
+        #1   | 6.6 %|  <module>                              ptest.py:1
+00:36:20.01  tag function: __main__.<module>                               %
+00:36:20.12  tag function: __main__.<module>                               %
+00:36:20.17   ______
+        #1   | 6.7 %|  <module>                              ptest.py:1
+00:36:20.22  tag function: __main__.<module>                               %
+00:36:20.32  tag function: __main__.<module>                               %
+00:36:20.38   ______
+        #1   | 6.5 %|  <module>                              ptest.py:1
+00:36:20.43  tag function: __main__.<module>                               %
+00:36:20.53  tag function: __main__.<module>                               %
+00:36:20.58   ______
+        #1   | 6.8 %|  <module>                              ptest.py:1
+00:36:20.64  tag function: __main__.<module>                               %
+00:36:20.74  tag function: __main__.<module>                               %
+00:36:20.79   ______
+        #1   | 6.8 %|  <module>                              ptest.py:1
+00:36:20.84  tag function: __main__.<module>                               %
+00:36:20.95  tag function: __main__.<module>                               %
+00:36:21.00   ______
+        #1   | 6.4 %|  <module>                              ptest.py:1
+00:36:21.05  tag function: __main__.<module>                               %
+00:36:21.16  tag function: __main__.<module>                               %
+00:36:21.21   ______
+        #1   | 6.8 %|  <module>                              ptest.py:1
+00:36:21.26  tag function: __main__.<module>                               %
+00:36:21.37  tag function: __main__.<module>                               %
+00:36:21.47  tag function: __main__.<module>                               %
+00:36:21.57  tag function: __main__.<module>                               %
+00:36:21.68  tag function: __main__.<module>                               %
+00:36:21.78  tag function: __main__.<module>                               %
+00:36:21.88  tag function: __main__.<module>                               %
+00:36:21.99  tag function: __main__.<module>                               %
+00:36:22.09  tag function: __main__.<module>                               %
+00:36:22.20  tag function: __main__.<module>                               %
+00:36:22.30  tag function: __main__.<module>                               %
+00:36:22.40  tag function: __main__.<module>                               %
+00:36:22.51  tag function: __main__.<module>                               %
+00:36:22.56   ______
+        #1   | 6.7 %|  <module>                              ptest.py:1
+00:36:22.61  tag function: __main__.<module>                               %
+00:36:22.72  tag function: __main__.<module>                               %
+00:36:22.77   ______
+        #1   | 6.6 %|  <module>                              ptest.py:1
+00:36:22.82  tag function: __main__.<module>                               %
+00:36:22.92  tag function: __main__.<module>                               %
+00:36:22.98   ______
+        #1   | 6.8 %|  <module>                              ptest.py:1
+00:36:23.03  tag function: __main__.<module>                               %
+00:36:23.13  tag function: __main__.<module>                               %
+00:36:23.18   ______
+        #1   | 6.7 %|  <module>                              ptest.py:1
+00:36:23.24  tag function: __main__.<module>                               %
+00:36:23.34  tag function: __main__.<module>                               %
+00:36:23.39   ______
+        #1   | 6.9 %|  <module>                              ptest.py:1
+00:36:23.44  tag function: __main__.<module>                               %
+00:36:23.55  tag function: __main__.<module>                               %
+00:36:23.60   ______
+        #1   | 6.6 %|  <module>                              ptest.py:1
+00:36:23.65  tag function: __main__.<module>                               %
+00:36:23.76  tag function: __main__.<module>                               %
+00:36:23.81   ______
+        #1   | 6.7 %|  <module>                              ptest.py:1
+00:36:23.86  tag function: __main__.<module>                               %
+00:36:23.97  tag function: __main__.<module>                               %
+00:36:24.07  tag function: __main__.<module>                               %
+00:36:24.17  tag function: __main__.<module>                               %
+00:36:24.28  tag function: __main__.<module>                               %
+00:36:24.38  tag function: __main__.<module>                               %
+00:36:24.48  tag function: __main__.<module>                               %
+00:36:24.59  tag function: __main__.<module>                               %
+00:36:24.69  tag function: __main__.<module>                               %
+00:36:24.80  tag function: __main__.<module>                               %
+00:36:24.90  tag function: __main__.<module>                               %
+00:36:25.00  tag function: __main__.<module>                               %
+00:36:25.11  tag function: __main__.<module>                               %
+00:36:25.16   ______
+        #1   | 6.6 %|  <module>                              ptest.py:1
+00:36:25.21  tag function: __main__.<module>                               %
+00:36:25.32  tag function: __main__.<module>                               %
+00:36:25.37   ______
+        #1   | 6.6 %|  <module>                              ptest.py:1
+00:36:25.42  tag function: __main__.<module>                               %
+00:36:25.52  tag function: __main__.<module>                               %
+00:36:25.58   ______
+        #1   | 6.4 %|  <module>                              ptest.py:1
+00:36:25.63  tag function: __main__.<module>                               %
+00:36:25.73  tag function: __main__.<module>                               %
+00:36:25.79   ______
+        #1   | 6.8 %|  <module>                              ptest.py:1
+00:36:25.84  tag function: __main__.<module>                               %
+00:36:25.94  tag function: __main__.<module>                               %
+00:36:25.99   ______
+        #1   | 6.7 %|  <module>                              ptest.py:1
+00:36:26.05  tag function: __main__.<module>                               %
+00:36:26.15  tag function: __main__.<module>                               %
+00:36:26.20   ______
+        #1   | 7.1 %|  <module>                              ptest.py:1
+00:36:26.25  tag function: __main__.<module>                               %
+00:36:26.36  tag function: __main__.<module>                               %
+00:36:26.41   ______
+        #1   | 6.7 %|  <module>                              ptest.py:1
+00:36:26.46  tag function: __main__.<module>                               %
+00:36:26.57  tag function: __main__.<module>                               %
+00:36:26.67  tag function: __main__.<module>                               %
+00:36:26.77  tag function: __main__.<module>                               %
+00:36:26.88  tag function: __main__.<module>                               %
+00:36:26.98  tag function: __main__.<module>                               %
+00:36:27.08  tag function: __main__.<module>                               %
+00:36:27.19  tag function: __main__.<module>                               %
+00:36:27.29  tag function: __main__.<module>                               %
+00:36:27.40  tag function: __main__.<module>                               %
+00:36:27.50  tag function: __main__.<module>                               %
+00:36:27.60  tag function: __main__.<module>                               %
+00:36:27.71  tag function: __main__.<module>                               %
+00:36:27.76   ______
+        #1   | 7.0 %|  <module>                              ptest.py:1
+00:36:27.81  tag function: __main__.<module>                               %
+00:36:27.92  tag function: __main__.<module>                               %
+00:36:27.97   ______
+        #1   | 7.1 %|  <module>                              ptest.py:1
+00:36:28.02  tag function: __main__.<module>                               %
+00:36:28.13  tag function: __main__.<module>                               %
+00:36:28.18   ______
+        #1   | 6.7 %|  <module>                              ptest.py:1
+00:36:28.23  tag function: __main__.<module>                               %
+00:36:28.34  tag function: __main__.<module>                               %
+00:36:28.39   ______
+        #1   | 6.8 %|  <module>                              ptest.py:1
+00:36:28.44  tag function: __main__.<module>                               %
+00:36:28.54  tag function: __main__.<module>                               %
+00:36:28.60   ______
+        #1   | 6.8 %|  <module>                              ptest.py:1
+00:36:28.65  tag function: __main__.<module>                               %
+00:36:28.75  tag function: __main__.<module>                               %
+00:36:28.80   ______
+        #1   | 6.7 %|  <module>                              ptest.py:1
+00:36:28.86  tag function: __main__.<module>                               %
+00:36:28.96  tag function: __main__.<module>                               %
+00:36:29.07  tag function: __main__.<module>                               %
+00:36:29.17  tag function: __main__.<module>                               %
+00:36:29.27  tag function: __main__.<module>                               %
+00:36:29.38  tag function: __main__.<module>                               %
+00:36:29.48  tag function: __main__.<module>                               %
+00:36:29.58  tag function: __main__.<module>                               %
+00:36:29.69  tag function: __main__.<module>                               %
+00:36:29.79  tag function: __main__.<module>                               %
+00:36:29.90  tag function: __main__.<module>                               %
+00:36:30.00  tag function: __main__.<module>                               %
+00:36:30.10  tag function: __main__.<module>                               %
+00:36:30.21  tag function: __main__.<module>                               %
+00:36:30.31  tag function: __main__.<module>                               %
+00:36:30.37   ______
+        #1   | 6.8 %|  <module>                              ptest.py:1
+00:36:30.42  tag function: __main__.<module>                               %
+00:36:30.52  tag function: __main__.<module>                               %
+00:36:30.57   ______
+        #1   | 6.9 %|  <module>                              ptest.py:1
+00:36:30.63  tag function: __main__.<module>                               %
+00:36:30.73  tag function: __main__.<module>                               %
+00:36:30.78   ______
+        #1   | 6.7 %|  <module>                              ptest.py:1
+00:36:30.83  tag function: __main__.<module>                               %
+00:36:30.94  tag function: __main__.<module>                               %
+00:36:30.99   ______
+        #1   | 6.7 %|  <module>                              ptest.py:1
+00:36:31.04  tag function: __main__.<module>                               %
+00:36:31.15  tag function: __main__.<module>                               %
+00:36:31.20   ______
+        #1   | 6.6 %|  <module>                              ptest.py:1
+00:36:31.25  tag function: __main__.<module>                               %
+00:36:31.35  tag function: __main__.<module>                               %
+00:36:31.40   ______
+        #1   | 6.7 %|  <module>                              ptest.py:1
+00:36:31.46  tag function: __main__.<module>                               %
+00:36:31.56  tag function: __main__.<module>                               %
+00:36:31.66  tag function: __main__.<module>                               %
+00:36:31.77  tag function: __main__.<module>                               %
+00:36:31.87  tag function: __main__.<module>                               %
+00:36:31.98  tag function: __main__.<module>                               %
+00:36:32.08  tag function: __main__.<module>                               %
+00:36:32.18  tag function: __main__.<module>                               %
+00:36:32.29  tag function: __main__.<module>                               %
+00:36:32.39  tag function: __main__.<module>                               %
+00:36:32.50  tag function: __main__.<module>                               %
+00:36:32.60  tag function: __main__.<module>                               %
+00:36:32.70  tag function: __main__.<module>                               %
+00:36:32.81  tag function: __main__.<module>                               %
+00:36:32.91  tag function: __main__.<module>                               %
+00:36:32.96   ______
+        #1   | 6.6 %|  <module>                              ptest.py:1
+00:36:33.02  tag function: __main__.<module>                               %
+00:36:33.12  tag function: __main__.<module>                               %
+00:36:33.17   ______
+        #1   | 6.7 %|  <module>                              ptest.py:1
+00:36:33.22  tag function: __main__.<module>                               %
+00:36:33.33  tag function: __main__.<module>                               %
+00:36:33.38   ______
+        #1   | 6.8 %|  <module>                              ptest.py:1
+00:36:33.43  tag function: __main__.<module>                               %
+00:36:33.54  tag function: __main__.<module>                               %
+00:36:33.59   ______
+        #1   | 6.6 %|  <module>                              ptest.py:1
+00:36:33.64  tag function: __main__.<module>                               %
+00:36:33.74  tag function: __main__.<module>                               %
+00:36:33.80   ______
+        #1   | 6.6 %|  <module>                              ptest.py:1
+00:36:33.85  tag function: __main__.<module>                               %
+00:36:33.95  tag function: __main__.<module>                               %
+00:36:34.00   ______
+        #1   | 6.7 %|  <module>                              ptest.py:1
+00:36:34.06  tag function: __main__.<module>                               %
+00:36:34.16  tag function: __main__.<module>                               %
+00:36:34.26  tag function: __main__.<module>                               %
+00:36:34.37  tag function: __main__.<module>                               %
+00:36:34.47  tag function: __main__.<module>                               %
+00:36:34.58  tag function: __main__.<module>                               %
+00:36:34.68  tag function: __main__.<module>                               %
+00:36:34.78  tag function: __main__.<module>                               %
+00:36:34.89  tag function: __main__.<module>                               %
+00:36:34.99  tag function: __main__.<module>                               %
+00:36:35.10  tag function: __main__.<module>                               %
+00:36:35.20  tag function: __main__.<module>                               %
+00:36:35.30  tag function: __main__.<module>                               %
+00:36:35.41  tag function: __main__.<module>                               %
+00:36:35.51  tag function: __main__.<module>                               %
+00:36:35.57   ______
+        #1   | 6.9 %|  <module>                              ptest.py:1
+00:36:35.62  tag function: __main__.<module>                               %
+00:36:35.72  tag function: __main__.<module>                               %
+00:36:35.77   ______
+        #1   | 5.8 %|  <module>                              ptest.py:1
+00:36:35.82  tag function: __main__.<module>                               %
+00:36:35.93  tag function: __main__.<module>                               %
+00:36:35.98   ______
+        #1   | 6.8 %|  <module>                              ptest.py:1
+00:36:36.03  tag function: __main__.<module>                               %
+00:36:36.14  tag function: __main__.<module>                               %
+00:36:36.19   ______
+        #1   | 6.7 %|  <module>                              ptest.py:1
+00:36:36.24  tag function: __main__.<module>                               %
+00:36:36.34  tag function: __main__.<module>                               %
+00:36:36.40   ______
+        #1   | 7.0 %|  <module>                              ptest.py:1
+00:36:36.45  tag function: __main__.<module>                               %
+00:36:36.55  tag function: __main__.<module>                               %
+00:36:36.60   ______
+        #1   | 6.7 %|  <module>                              ptest.py:1
+00:36:36.66  tag function: __main__.<module>                               %
+00:36:36.76  tag function: __main__.<module>                               %
+00:36:36.87  tag function: __main__.<module>                               %
+00:36:36.92  memory usage: 0+ kb                                           %
+00:36:36.92  program exit, 03/31/09                     %%%%%%%%%%%%%%%%%%%%
